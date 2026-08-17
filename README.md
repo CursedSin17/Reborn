@@ -1,6 +1,7 @@
 # REBORN
 
 **RU**
+
 Фанатская модификация Heroes of Annihilated Empires.
 
 Требуется легально приобретённая копия игры — Steam или GOG.
@@ -16,6 +17,7 @@
 Лаунчер сам проверяет новые версии и докачивает только изменившееся.
 -----
 **EN**
+
 Fan-made modification of Heroes of Annihilated Empires.
 
 A legally purchased copy of the game is required — Steam or GOG.
